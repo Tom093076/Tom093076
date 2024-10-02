@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tom093076
-- 👀 I’m interested in Unity
+- 👋 Hi, I’m AmirJohn.
+- 👀 I’m interested in Unity development.
 - 🌱 I’m currently learning Game Design and Programming
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me Johnamir261@gmail.com
+- 📫 How to reach me: Johnamir261@gmail.com
 - 😄 Pronouns: "Lucky boy"
 - ⚡ Fun fact: hhh
 
