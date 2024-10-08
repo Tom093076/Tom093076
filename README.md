@@ -1,9 +1,9 @@
 - 👋 Hi, I’m AmirJohn.
-- 👀 I’m interested in Unity development.
+- 👀 I’m interested in Game development and Animation.
 - 🌱 I’m currently learning Game Design and Programming
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me: Johnamir261@gmail.com
-- 😄 Pronouns: "Lucky boy"
+- 😄 Pronouns: "Lucky Man"
 - ⚡ Fun fact: hhh
 
 <!---
