@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me: Johnamir261@gmail.com
 - 😄 Pronouns: "Lucky Man"
-- ⚡ Fun fact: hhh
+- ⚡ Fun fact: 🎨Painting, 🎣Fishing, 🏸Badminton
 
 <!---
 Tom093076/Tom093076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
