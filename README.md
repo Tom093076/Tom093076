@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AmirJohn.
+- 👋 Hi, I’m Oleh Bachynskyi.
 - 👀 I’m interested in Game development and Animation.
-- 🌱 I’m currently learning Game Design and Programming
+- 🌱 I’m still learning Game Design and Programming.
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me: Johnamir261@gmail.com
 - 😄 Pronouns: "Lucky Man"
