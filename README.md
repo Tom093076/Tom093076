@@ -1,4 +1,4 @@
-- 👋 Hi, Wellcome!!!
+- 👋 Hi, Welcome!!!
 - 👀 I’m interested in Game development and Animation.
 - 🌱 I’m still learning Game Design and Programming.
 - 💞️ I’m looking to collaborate on Game Development
