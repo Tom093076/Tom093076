@@ -1,7 +1,7 @@
 - 👋 Hi, Welcome!!!
-- 👀 I’m interested in Game development and Animation.
-- 🌱 I’m still learning Game Design and Programming.
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in Data Science and Web development.
+- 🌱 I’m still learning.
+- 💞️ I’m looking to collaborate with you.
 - 📫 How to reach me: Johnamir261@gmail.com
 - 😄 Pronouns: "Lucky Man"
 - ⚡ Fun fact: 🎨Painting, 🎣Fishing, 🏸Badminton
