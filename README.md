@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science | Trading | Scraping | Web development...
 - 🌱 I’m still learning.
 - 💞️ I’m looking to collaborate with you.
-- 📫 How to reach me: Johnamir261@gmail.com
+- 📫 How to reach me: [Telegram](https://t.me/guru_hercules)
 - 😄 Pronouns: "Ariborne"
 - ⚡ Fun fact: 🎨Painting, 🎣Fishing, 🏸Badminton
 
